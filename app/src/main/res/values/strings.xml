@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChildWalfare</string>
+    <string name="title_activity_tab">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_Friends">Users</string>
+    <string name="title_Profile">Profile</string>
+</resources>
